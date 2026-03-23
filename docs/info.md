@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+<!-- Explain how your project works -->
+Pressing RST writes the current state of the dip-switches into the SRAM cells.
 
 ## How to test
 
-Explain how to use your project
+<!-- Explain how to use your project -->
+The design should be ready out of the box.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+<!-- List external hardware used in your project (e.g. PMOD, LED display, etc), if any -->
+No external hardware required.
